@@ -1,28 +1,32 @@
-## Hi there 👋
+# Hi, I'm Mehul Patil !! 👋
 
-<!--
-**mehulpatil17/mehulpatil17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 B.Tech @ IIT Gandhinagar |  AI 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm [Your Name] 👋
-💻 I’m a web developer  
-🌱 Currently learning React  
+💻 I’m a Student  
+🌱 Currently learning AI/ML  
 🚀 Love building cool projects  
 
-## Skills
-- HTML, CSS, JavaScript
+## Skills & Technologies
 - Python
+- **AI/ML:** Python, TensorFlow, Gemini API, OpenAI API, Google Cloud API
 
-## Projects
-- Project 1 – description
-- Project 2 – description
+##  Featured Repositories
+### 1.  [STT-AI Course Work](https://github.com/mehulpatil17/STT-AI)
+
+
+##  GitHub Stats
+# 📊 GitHub Statistics
+
+## Overall Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehulpatil17&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulpatil17&layout=compact&count_private=true&theme=dark)
+
+## GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehulpatil17&theme=dark)
+
+## Contributions
+![GitHub Contribution](https://github-readme-activity-graph.vercel.app/graph?username=mehulpatil17&theme=dark)
+
+---
