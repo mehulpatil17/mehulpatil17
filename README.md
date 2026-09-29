@@ -7,12 +7,12 @@
 🚀 Love building cool projects  
 
 ## Skills & Technologies
-- Python
+- Python, C, C++
 - **AI/ML:** Python, TensorFlow, Gemini API, OpenAI API, Google Cloud API
 
 ##  Featured Repositories
 ### 1.  [STT-AI Course Work](https://github.com/mehulpatil17/STT-AI)
-
+- Tutorials and assignments of course Software Tools And Techniques - AI
 
 ##  GitHub Stats
 # 📊 GitHub Statistics
